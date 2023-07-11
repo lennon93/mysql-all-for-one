@@ -15,7 +15,7 @@ Foi usado nesse projeto um banco de dados público, o Northwind, criado pela Mic
 - MySQL </br>
 - Docker </br>
 - Javascript </br>
-- CRUD < /br>
+- CRUD </br>
 
 
 </br>
